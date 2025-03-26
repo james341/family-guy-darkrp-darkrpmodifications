@@ -11,7 +11,7 @@ If you have come this far and still have yet to find the download for the actual
 
 
 ## Description ##
-You should never edit any of the Fnaf- DarkRP core files (anything inside gamemodes/darkrp/*). That’s exactly why this addon exists. This addon was made for everyone—even if you don’t know Lua, it allows you to customize DarkRP without worrying about updates or needing to read/write Lua code. Take a look around, and feel free to use any of the many resources available to you at the bottom of this text!
+You should never edit any of the family-guy- DarkRP core files (anything inside gamemodes/darkrp/*). That’s exactly why this addon exists. This addon was made for everyone—even if you don’t know Lua, it allows you to customize DarkRP without worrying about updates or needing to read/write Lua code. Take a look around, and feel free to use any of the many resources available to you at the bottom of this text!
 
 ## Contents of this addon ##
 Everything you need is in the Lua folder—that’s where the fun happens. *(And if you have anything other than text-based files in this folder, you've done something wrong!)*
