@@ -1,8 +1,8 @@
 --[[---------------------------------------------------------------------------
-DarkRP disabled defaults
+FamilyGuy-DarkRP disabled defaults
 ---------------------------------------------------------------------------
 
-FnaFRP - comes with a bunch of default things:
+FamilyGuy RP - comes with a bunch of default things:
     - a load of modules
     - default jobs
     - shipments and guns
@@ -40,7 +40,7 @@ DarkRP.disabledDefaults["modules"] = {
 Ehhhhh, hey there! Heheheheh. So, uh, yeah, I just wanted to leave ya a little message to, uh, help ya get settled in with the new Family Guy DarkRP Modification thing. Y'know, hehehe, pretty cool, right?
 So, uh, this version’s got, like, all the custom Family Guy jobs added! Freakin’ sweet! Like, ya got Peter, me, obviously… Quagmire, Joe, Brian—eh, even that weirdo Stewie, heheheheh.
 Oh! Oh! And, uh, yeah, all the jobs got names next to ‘em, so, uh, should be real easy to figure out which ones ya wanna turn off if, uh, Meg tries to join. Heheheheh.
-Alright, uh… yeah, hope that helps. Stay safe… and, uh… good luck. Heheheheh.
+Alright, uh… yeah, hope that helps. Stay safe… and, uh… good luck. Heheheheh
 ---------------------------------------------------------------------------]]
 DarkRP.disabledDefaults["jobs"] = {
     ["citizen"]     = false, -- Citizen
@@ -55,14 +55,13 @@ DarkRP.disabledDefaults["jobs"] = {
 	["terrorist"]      = false, -- Terrorist
 	["hobolead"]      = false, -- Hobo Leader
 	["hobo"]      = false, -- Hobo 
-	["tedgangster"]      = false, -- Ted
+	["tedgangster"]      = false, -- Ted Gangster
     ["kidnapper"]      = false, -- Kidnapper
 	["tedboss"]     = false, -- Ted Boss
     ["thief"]     = false, -- Thief
 	["gundealer"]     = false, -- Gun Dealer
 	["medic"]     = false, -- Medic
     ["drugdealer"]   = false, -- Drug Dealer
-	["thepchief"]   = false, -- Police Chief
 	["cp"]   = false, -- Police Officer
 	["cook"]      = true, -- Cook -- HungerMode only
 	["mobboss"]   = false, -- Mob Boss
