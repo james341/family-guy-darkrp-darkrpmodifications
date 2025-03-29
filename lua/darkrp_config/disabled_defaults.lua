@@ -64,6 +64,7 @@ DarkRP.disabledDefaults["jobs"] = {
 	["gundealer"]     = false, -- Gun Dealer
 	["medic"]     = false, -- Medic
     ["drugdealer"]   = false, -- Drug Dealer
+	["dutystaff"]      = false, -- Staff on Duty -- Default Admin Job -- Disable if you want your own - :)
 	["cp"]   = false, -- Police Officer
 	["cook"]      = true, -- Cook -- HungerMode only
 }
