@@ -45,6 +45,8 @@ Alright, uh… yeah, hope that helps. Stay safe… and, uh… good luck. Heheheh
 DarkRP.disabledDefaults["jobs"] = {
     ["citizen"]     = false, -- Citizen
     ["peter"]      = false, -- Peter Griffin
+	["chris"]      = false, -- Chris Griffin
+	["meg"]      = false, -- Meg Griffin
 	["lois"]      = false, -- Lois Griffin
 	["mayor"]      = false, -- Mayor - Adam West
 	["stewie"]      = false, -- Stewie Griffin
@@ -64,7 +66,6 @@ DarkRP.disabledDefaults["jobs"] = {
     ["drugdealer"]   = false, -- Drug Dealer
 	["cp"]   = false, -- Police Officer
 	["cook"]      = true, -- Cook -- HungerMode only
-	["mobboss"]   = false, -- Mob Boss
 }
 
 --[[---------------------------------------------------------------------------
